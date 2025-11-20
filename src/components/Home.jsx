@@ -68,7 +68,7 @@ function Home() {
         </button>
         {loading && (
           <p style={{ marginTop: 38, fontSize: "1.1em", color: "#333" }}>
-            Loading data…
+            Loading data...
           </p>
         )}
       </div>
